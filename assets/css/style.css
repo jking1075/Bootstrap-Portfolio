@@ -1,0 +1,63 @@
+/*style.css*/
+
+body {
+	background-color: #c8c8c8;
+}
+
+h1{
+	color: #c8c8c8;
+}
+
+h2{
+	color: #272b30;
+}
+
+#navigation {
+
+ font-size: 22px;
+}
+
+
+#bio-image{
+
+	float: left;
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+
+}
+
+#bio-text{
+	padding: 05px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: left;
+	line-height: 25px;
+}
+
+#navigation{
+	font-size: 27px;
+}
+
+#contact-info{
+	text-align: center;
+}
+
+#portfolio-badge{
+	float: left;
+	margin: 15px;
+
+}
+
+footer {
+	
+	clear:both;
+	text-align: center;
+	position: relative;
+	margin: 0px;
+	bottom: -200px;
+	height: 40px;
+	width: 100%;
+    border-top: solid 5px lightgrey;
+    color: black;
+}
